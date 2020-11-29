@@ -1,0 +1,27 @@
+"liveSassCompile.settings.formats": [
+        {
+        "format": "expanded",
+        // "format": "compact",
+        // "format": "compressed",
+         // "format": "nested",
+        "extensionName": ".css",
+        // "extensionName": ".min.css",
+        "savePath":"/css"
+        }
+    ],
+    "liveSassCompile.settings.generateMap": false,
+    "workbench.colorTheme": "Atom One Dark",
+    "editor.mouseWheelZoom": true,
+    "liveSassCompile.settings.autoprefix": [
+        
+            "> 1%",
+            "last 2 versions"
+ 
+    ],
+    "files.autoSave": "afterDelay",
+    "liveSassCompile.settings.excludeList": [
+
+        "**/node_modules/**",
+        ".vscode/**"
+    ]
+
